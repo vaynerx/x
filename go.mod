@@ -1,6 +1,6 @@
 module github.com/team-gary/x
 
-go 1.13
+go 1.13.6
 
 require (
 	github.com/cenkalti/backoff v2.2.1+incompatible
