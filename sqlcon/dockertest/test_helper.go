@@ -16,7 +16,7 @@ import (
 
 	"github.com/ory/dockertest/v3"
 
-	"github.com/ory/x/resilience"
+	"github.com/team-gary/x/resilience"
 )
 
 // atexit := atexit.NewOnExit()

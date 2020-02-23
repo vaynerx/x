@@ -13,7 +13,7 @@ import (
 
 	"github.com/ory/viper"
 
-	"github.com/ory/x/logrusx"
+	"github.com/team-gary/x/logrusx"
 )
 
 var cfgFile string

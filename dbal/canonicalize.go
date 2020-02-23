@@ -1,6 +1,6 @@
 package dbal
 
-import "github.com/ory/x/cmdx"
+import "github.com/team-gary/x/cmdx"
 
 const (
 	// DriverMySQL is the mysql driver name.

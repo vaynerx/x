@@ -32,7 +32,7 @@ import (
 	"github.com/stretchr/testify/require"
 
 	"github.com/ory/fosite"
-	"github.com/ory/x/sqlcon"
+	"github.com/team-gary/x/sqlcon"
 )
 
 func TestErrorEnhancer(t *testing.T) {

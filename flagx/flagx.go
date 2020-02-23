@@ -5,7 +5,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/ory/x/cmdx"
+	"github.com/team-gary/x/cmdx"
 )
 
 // MustGetBool returns a bool flag or fatals if an error occurs.

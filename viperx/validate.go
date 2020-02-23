@@ -12,8 +12,8 @@ import (
 	"github.com/ory/jsonschema/v3"
 	"github.com/ory/viper"
 
-	"github.com/ory/x/errorsx"
-	"github.com/ory/x/jsonschemax"
+	"github.com/team-gary/x/errorsx"
+	"github.com/team-gary/x/jsonschemax"
 )
 
 // ValidateFromURL validates the viper config by loading the schema from a URL

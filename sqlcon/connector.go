@@ -38,8 +38,8 @@ import (
 	"github.com/pkg/errors"
 	"github.com/sirupsen/logrus"
 
-	"github.com/ory/x/resilience"
-	"github.com/ory/x/stringslice"
+	"github.com/team-gary/x/resilience"
+	"github.com/team-gary/x/stringslice"
 )
 
 // SQLConnection represents a connection to a SQL database.

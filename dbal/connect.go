@@ -7,7 +7,7 @@ import (
 	"github.com/pkg/errors"
 	"github.com/sirupsen/logrus"
 
-	"github.com/ory/x/sqlcon"
+	"github.com/team-gary/x/sqlcon"
 )
 
 // Connect is a wrapper for connecting to different SQL drivers.

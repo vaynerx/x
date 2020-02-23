@@ -9,7 +9,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/ory/x/stringslice"
+	"github.com/team-gary/x/stringslice"
 )
 
 func TestNewPackerMigrationSource(t *testing.T) {

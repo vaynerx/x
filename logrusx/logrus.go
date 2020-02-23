@@ -5,7 +5,7 @@ import (
 
 	"github.com/ory/viper"
 
-	"github.com/ory/x/stringsx"
+	"github.com/team-gary/x/stringsx"
 )
 
 // New initializes logrus with environment variable configuration LOG_LEVEL and LOG_FORMAT.

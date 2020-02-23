@@ -11,7 +11,7 @@ import (
 
 	"github.com/ory/herodot"
 
-	"github.com/ory/x/errorsx"
+	"github.com/team-gary/x/errorsx"
 )
 
 var (

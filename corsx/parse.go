@@ -7,7 +7,7 @@ import (
 	"github.com/rs/cors"
 	"github.com/sirupsen/logrus"
 
-	"github.com/ory/x/viperx"
+	"github.com/team-gary/x/viperx"
 )
 
 func p(prefix string) string {

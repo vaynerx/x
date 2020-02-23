@@ -43,7 +43,7 @@ import (
 
 	"github.com/ory/dockertest/v3"
 
-	dockertestd "github.com/ory/x/sqlcon/dockertest"
+	dockertestd "github.com/team-gary/x/sqlcon/dockertest"
 )
 
 var (

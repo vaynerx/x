@@ -36,8 +36,8 @@ import (
 
 	"github.com/ory/viper"
 
-	"github.com/ory/x/cmdx"
-	"github.com/ory/x/resilience"
+	"github.com/team-gary/x/cmdx"
+	"github.com/team-gary/x/resilience"
 
 	"github.com/pborman/uuid"
 	"github.com/segmentio/analytics-go"
@@ -206,7 +206,7 @@ func New(
 				Set("optedOut", optOut).
 				Set("instanceId", uuid.New()).
 				Set("isDevelopment", o.IsDevelopment),
-			UserAgent: "github.com/ory/x/metricsx.Service/v0.0.1",
+			UserAgent: "github.com/team-gary/x/metricsx.Service/v0.0.1",
 		},
 	}
 

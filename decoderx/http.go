@@ -17,9 +17,9 @@ import (
 
 	"github.com/ory/herodot"
 
-	"github.com/ory/x/httpx"
-	"github.com/ory/x/jsonschemax"
-	"github.com/ory/x/stringslice"
+	"github.com/team-gary/x/httpx"
+	"github.com/team-gary/x/jsonschemax"
+	"github.com/team-gary/x/stringslice"
 )
 
 type (

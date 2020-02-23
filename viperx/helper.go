@@ -8,8 +8,8 @@ import (
 
 	"github.com/ory/viper"
 
-	"github.com/ory/x/stringslice"
-	"github.com/ory/x/stringsx"
+	"github.com/team-gary/x/stringslice"
+	"github.com/team-gary/x/stringsx"
 )
 
 func d(l logrus.FieldLogger, new, old string) {

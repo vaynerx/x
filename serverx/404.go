@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/ory/x/stringslice"
-	"github.com/ory/x/stringsx"
+	"github.com/team-gary/x/stringslice"
+	"github.com/team-gary/x/stringsx"
 )
 
 func matchesContentTypes(r *http.Request, mimetypes []string) bool {

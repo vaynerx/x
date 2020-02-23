@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/ory/x/viperx"
+	"github.com/team-gary/x/viperx"
 
 	"github.com/jmoiron/sqlx"
 	"github.com/sirupsen/logrus"

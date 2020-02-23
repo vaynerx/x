@@ -13,7 +13,7 @@ import (
 
 	"github.com/ory/viper"
 
-	"github.com/ory/x/jsonschemax"
+	"github.com/team-gary/x/jsonschemax"
 )
 
 // BindEnvsToSchema uses all keys it can find from ``
