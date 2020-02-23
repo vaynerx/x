@@ -45,3 +45,10 @@ func SetQuery(u *url.URL, query url.Values) (ep *url.URL) {
 	ep.RawQuery = q.Encode()
 	return ep
 }
+
+// SetScheme prepends the URI scheme to the URL.
+func SetScheme(u *url.URL, scheme string) (ep *url.URL) {
+	ep = Copy(u)
+	ep.Scheme = scheme
+	return ep
+}
